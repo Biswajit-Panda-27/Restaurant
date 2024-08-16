@@ -29,7 +29,7 @@ const WhyChoose = () => {
                         <div className='text-center flex justify-center items-center flex-col gap-2 px-2'>
                             <p data-aos="fade-up" data-aos-delay="300" className='text-dark/70 font-semibold'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe quaerat voluptatem, neque maiori.</p>
                             <p className='text-5xl rotate-90 text-pink-400 text-center translate-x-5'>....</p>
-                            <FaBus className='text-5xl text-pink-400' />
+                            <FaBus className='text-4xl text-pink-400' />
                         </div>
 
                         {/* 4th card */}
@@ -46,3 +46,4 @@ const WhyChoose = () => {
 };
 
 export default WhyChoose;
+
